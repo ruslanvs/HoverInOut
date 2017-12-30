@@ -1,0 +1,1 @@
+jQuery optional educational assignment at Coding Dojo
